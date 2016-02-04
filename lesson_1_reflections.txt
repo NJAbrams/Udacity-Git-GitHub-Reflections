@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Using FC or diff quickly found changes between two files. 
+It only displayed the lines that different so it was easy to see what had changed.
+By only looking at the changes we were able to quickly find what change had a mistake in it!
