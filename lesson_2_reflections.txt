@@ -23,3 +23,11 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams help show higharky and parentage of the the branches and git commits. It show what branches 
 have what commits and what has changed seperatly from them in other branches.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging brings all the changes of the branches together. The merged branches are both the parents of the commit.
+We show the repersentation of this on the diagram as lines from the head of each branch going to a
+new commit. Arrows head point at the heads of the branches to show parentage.
+
