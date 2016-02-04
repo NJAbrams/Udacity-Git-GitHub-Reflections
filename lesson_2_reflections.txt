@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creatates the hidden .git files; creating the framework to track.
+You need to do this to start the git process
