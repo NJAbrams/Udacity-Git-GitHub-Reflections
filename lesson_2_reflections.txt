@@ -9,3 +9,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 By running git diff --staged you can see what has changed in the staging area. 
 If all the changes are one logical step then you can commit.
 The staging area also allows for multiple files to be commited at once.
+
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+When you want different versions of you work that are not ready or different from the main code.
+Different launguages could be one. A working snap shot to show someone. Experamental features. 
+Whenever you are working on different content. To help you organized your work. To work with others.
