@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Git creatates the hidden .git files; creating the framework to track.
 You need to do this to start the git process
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By running git diff --staged you can see what has changed in the staging area. 
+If all the changes are one logical step then you can commit.
+The staging area also allows for multiple files to be commited at once.
