@@ -17,3 +17,9 @@ How would branches help?
 When you want different versions of you work that are not ready or different from the main code.
 Different launguages could be one. A working snap shot to show someone. Experamental features. 
 Whenever you are working on different content. To help you organized your work. To work with others.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help show higharky and parentage of the the branches and git commits. It show what branches 
+have what commits and what has changed seperatly from them in other branches.
