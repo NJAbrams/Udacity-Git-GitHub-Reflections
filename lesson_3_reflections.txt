@@ -8,3 +8,10 @@ up-to-date with your remote repository?
 You might only want to have a stable or polished version of your code visable to the public.
 If working as a team it might make sence to only push changes when they are ready to make the GitHub
 repository easier to follow for your teammates.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are copies of repositories on GitHub that link back to a original repository.
+Clones are direct copies of a repository. Branches are different veriation of code in a repository.
+You would use forks to work on a copy of someone elses repositories that you do not have promition to change.
+Clones are for ones that you do. Branches allow you to have different version of a repository you have access to.
