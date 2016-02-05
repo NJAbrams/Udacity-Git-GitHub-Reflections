@@ -24,6 +24,11 @@ This can be useful to resoulve conflicts from having the changes to the remote b
 you made your own changes.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Using a branch to make changes lets you work on a feature or change without effecting the master or main code.
+This lets you make pull requests to have someone else double check your code is ready for the limelight. 
+The downside is it can be faster and simpilar to make changes directly.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I've used google drive in the passed but now I don't want to think about collaborating on code with out git and github.
